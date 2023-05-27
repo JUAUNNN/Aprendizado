@@ -9,8 +9,9 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## Gravando mudanças no repositório
 
 # mais modificações 
-* comando git add 
+* comando git add (mais o arquivo)
 * comando git restore 
 * comando git commit -m
 * comando git remote 
 * comando git status
+* criando branch, comando git branch (exemplo testing)
